@@ -1,0 +1,12 @@
+{
+    "table_weight": "/Users/macbook/Documents/Cinnamon/tabxd/weights/ocean.t7",
+    "layout_weight": "/Users/macbook/Documents/Cinnamon/tabxd/weights/JeffLayout-general-weight-v1.0.0.pth", 
+    "ocr_weight": "/Users/macbook/Documents/Cinnamon/tabxd/weights/CannetOCR-v2.6.0.pt",
+    "output_dir": "/Users/macbook/Documents/Cinnamon/tabxd/output/pd_unmerged",
+    "data_dir": "/Users/macbook/Documents/Cinnamon/tabxd/dataset/datapile/Un-merged_cell_table/images",
+    "evaluation": {
+        "gt_dir": "/Users/macbook/Documents/Cinnamon/tabxd/output/gt_merged",
+        "pd_dir": "/Users/macbook/Documents/Cinnamon/tabxd/output/pd_merged/prediction",
+        "output_dir": "/Users/macbook/Documents/Cinnamon/tabxd/output/eval_merged"
+    }
+}

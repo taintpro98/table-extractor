@@ -4,5 +4,5 @@
 
 ## Maintainer
 
-@xing, @bruno, @luan
+@bruno
 
